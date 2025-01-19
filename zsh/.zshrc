@@ -111,7 +111,7 @@ alias gha="gh auth status"
 
 # package management (archlinux)
 alias pupdate="paru -Syyu"
-alias yupdate="yay -Syyu"
+alias uninstall="paru -Rc"
 alias search="pacseek"
 alias update="sudo pacman -Syyu"
 alias install="paru -Syu"
