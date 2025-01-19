@@ -71,6 +71,16 @@ rehash_precmd() {
 
 add-zsh-hook -Uz precmd rehash_precmd
 
+# custom and experimental commands as aliases while under development
+
+alias update-dots="~/dotfiles/update.sh"
+alias discordstatus="~/dotfiles/discordstatus.sh"
+alias zenithmodinit="~/dotfiles/zenithmodinit.sh"
+
+
+# tmux
+alias sourcet="source ~/.tmux.conf"
+
 # omz
 alias zshconfig="nvim ~/.zshrc"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
