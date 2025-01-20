@@ -147,3 +147,4 @@ export PATH="$PATH:/home/austin/.local/bin"
 eval $(thefuck --alias)
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+source /home/austin/.config/op/plugins.sh
