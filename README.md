@@ -30,9 +30,9 @@
 <details> 
   <summary>Instructions</summary>
     
-   - **Automatic**, but guided and transparent, installation for Arch(-based) Linux:
+   - **Automatic**installation for Arch(-based) Linux:
    ```bash
-   bash <(curl -s "https://end-4.github.io/dots-hyprland-wiki/setup.sh")
+   bash <(curl -s "https://raw.githubusercontent.com/awfixer-org/dotfiles/refs/heads/master/setup.sh")
    ```
    - **Manual** installation, other distros and more:
      - See the [Wiki](https://end-4.github.io/dots-hyprland-wiki/en/i-i/01setup/)
