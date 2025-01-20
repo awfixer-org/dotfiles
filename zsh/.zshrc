@@ -99,6 +99,7 @@ alias gcl='git clone'
 alias gi='git init'
 alias ga='git add .'
 alias gc='git commit -m "zsh did it for me"'
+alias gclone="git clone git@github.com:"
 alias gp='git push'
 alias gstat="git status"
 alias gstash="git stash"

@@ -1,5 +1,5 @@
 {
-  "bar.customModules.updates.pollingInterval": 21600000,
+  "bar.customModules.updates.pollingInterval": 1440000,
   "menus.power.lowBatteryNotification": false,
   "theme.bar.buttons.modules.ram.enableBorder": false,
   "theme.bar.buttons.modules.cpu.enableBorder": false,
