@@ -12,7 +12,13 @@ Config(
   max_entries: None,
   plugins: [
     "libapplications.so",
+    "libdictionary.so",
     "libkidex.so",
+    "librandr.so",
     "libshell.so",
+    "libstdin.so",
+    "libsymbols.so",
+    "libtranslate.so",
+    "libwebsearch.so",
   ],
 )
