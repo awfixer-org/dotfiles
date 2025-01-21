@@ -68,15 +68,6 @@
 </details>
 
 <div align="center">
-    <h2>• screenshots •</h2>
-    <h3></h3>
-</div>
-
-### Main branch (_illogical-impulse_)
-
-
-
-<div align="center">
     <h2>• thank you •</h2>
     <h3></h3>
 </div>
