@@ -111,6 +111,7 @@ alias ghrs="gh repo sync"
 alias gha="gh auth status"
 alias ghd="gh repo delete"
 alias ghe="gh extension install"
+alias gu="ga && gc && gp"
 
 # package management (archlinux)
 alias pupdate="paru -Syyu"
