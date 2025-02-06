@@ -113,6 +113,9 @@ alias ghd="gh repo delete"
 alias ghe="gh extension install"
 alias gu="ga && gc && gp"
 
+# git signing
+alias gcs="git commit -S -m"
+
 # package management (archlinux)
 alias pupdate="paru -Syyu"
 alias uninstall="paru -Rc"

@@ -3,11 +3,7 @@
 :construction: <sub>Work in Progress (WIP)</sub>
 
 <p>
-    We are currently working on migrating these dotfiles to be installed with a bash script that will also install all of the needed files such as
-    nix, guix, and other dependencies. We are also working on a new version of the dots that will be more modular and easier to use. These dots will one
-    day support all popular desktop environments and window managers, and will be able to be installed on any system with a simple command. We are also
-    trying to decide which of the X11 based window managers we would like to support, as it is pretty well known that these will be the dots that
-    are used in the etc/skel of AWFixerOS
+    We are currently working on migrating these dotfiles, be aware that there might be errors
 </p>
 
 </div>
