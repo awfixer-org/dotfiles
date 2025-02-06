@@ -1,0 +1,4 @@
+: 1738748382:0;git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+: 1738748421:0;git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+: 1738752864:0;git clone git@github.com:awfixer/configs-2.0
+: 1738754218:0;cat ~/.zsh_history | grep "git clone" >>hmm.txt

@@ -54,8 +54,6 @@ bind = $mainMod+$shiftMod, S, exec, $screenshot
 bind = $mainMod, mouss_down, workspace, e+1
 bind = $mainMod, mouse_up, workspace, e-1
 
-bind = $mainMod+altMod, A, exec, killall node
-bind = $mainMod+shiftMod, A, exec, arrpc
 bind = $mainMod+$altMod, V, exec, $killvesktop
 bind = $mainMod, V, exec, vesktop
 bind = $mainMod, D, exec, $menu
