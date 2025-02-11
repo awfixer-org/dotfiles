@@ -16,3 +16,6 @@
 [submodule "assets"]
 	path = assets
 	url = https://github.com/awfixer-org/assets
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/doomemacs/doomemacs
