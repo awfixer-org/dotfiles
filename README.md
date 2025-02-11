@@ -45,7 +45,8 @@
 
 - [Dots Hyprland](https://github.com/end-4/dots-hyprland) - for the inspiration
 - [Aylur](https://github.com/aylur) - for the AGS widget system
-- [My Community](https://discord.gg/awfixer] - for the support (and the memes and tolorance)
+- [My Community](https://discord.gg/awfixer) - for the support (and the memes and tolorance)
+- [jinx](https://imjinx.lol) - for putting up with me :)
 
 <div align="center">
     <h2>• stonks •</h2>
