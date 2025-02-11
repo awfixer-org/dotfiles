@@ -104,6 +104,7 @@ alias gclone="git clone git@github.com:"
 alias gp='git push'
 alias gstat="git status"
 alias gstash="git stash"
+alias git pull="git pull --recurse-submodules"
 
 # gh
 alias ghrc="gh repo clone"
@@ -153,7 +154,7 @@ export PATH="$PATH:/home/austin/.local/bin"
 eval $(thefuck --alias)
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-#source /home/austin/.config/op/plugins.sh
+source /home/austin/.config/op/plugins.sh
 
 # pnpm
 export PNPM_HOME="/home/austin/.local/share/pnpm"
