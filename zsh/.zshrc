@@ -8,7 +8,7 @@ export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="random"
 
 # ZSH_THEME_RANDOM_CANDIDATES=( "robbyrussell" "agnoster" )
-
+# Name *
 # CASE_SENSITIVE="true"
 
 # HYPHEN_INSENSITIVE="true"
@@ -35,8 +35,9 @@ HIST_STAMPS="mm/dd/yyyy"
 
 ZSH_CUSTOM=~/.oh-my-zsh/custom/
 
-plugins=(zsh-history-substring-search zsh-syntax-highlighting zsh-autosuggestions zsh-completions aliases colored-man-pages command-not-found cp github gitignore golang systemd pip python nvm tugboat tmux git npm zoxide 1password archlinux brew docker docker-compose git-extras sudo thefuck zsh-interactive-cd)
+plugins=(emotty zsh-history-substring-search zsh-syntax-highlighting zsh-autosuggestions zsh-completions aliases colored-man-pages command-not-found cp github gitignore golang systemd pip python nvm tugboat tmux git npm zoxide 1password archlinux brew docker docker-compose git-extras sudo thefuck zsh-interactive-cd)
 
+fpath=($ZSH_CUSTOM/plugins/zsh-completions/src $fpath)
 source $ZSH/oh-my-zsh.sh
 
 # User configuration
@@ -152,7 +153,7 @@ export PATH="$PATH:/home/austin/.local/bin"
 eval $(thefuck --alias)
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
-source /home/austin/.config/op/plugins.sh
+#source /home/austin/.config/op/plugins.sh
 
 # pnpm
 export PNPM_HOME="/home/austin/.local/share/pnpm"
